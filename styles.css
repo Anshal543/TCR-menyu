@@ -45,6 +45,7 @@ body {
   box-sizing: border-box;
 }
 
+
 .section {
   margin-bottom: 30px;
 }
@@ -281,5 +282,7 @@ body {
 @media (max-width: 640px) {
   .menu-container {
     flex-direction: column;
+    margin-top: 5rem;
+
   }
 }
